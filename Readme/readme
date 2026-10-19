@@ -1,0 +1,29 @@
+Personal Portfolio Website
+
+Project Description
+
+I developed a responsive personal portfolio website using HTML5 and CSS3. The website includes Home, About Me, Skills, Projects, and Contact sections to present my education, technical skills, projects, and career interests.
+
+I used CSS Flexbox and Grid, consistent colours, project cards, hover effects, and media queries to create a user-friendly design for desktop and mobile screens. This project helped me practise semantic HTML, CSS styling, responsive web design, and website testing.
+
+Technologies Used
+
+- HTML5
+- CSS3
+- Flexbox and Grid
+- Media Queries
+
+Features
+
+- Responsive design for desktop and mobile screens
+- About Me and Skills sections
+- Project cards to showcase projects
+- Contact section
+- Hover effects and consistent styling
+
+Project Files
+
+- "index.html" — Website structure and content
+- "style.css" — Website styling and responsive layout
+- "desktop.png" — Desktop screenshot
+- "mobile.png" — Mobile screenshot
